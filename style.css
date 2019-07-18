@@ -27,12 +27,13 @@ body .fa {
     padding: 1.2rem 1rem 0.7rem 1rem;
 }
 
-.menu .icon {
-    color: #000;
+.menu-icon svg {
+    height: 25px;
+    width: 25px;
 }
 
-.menu.is-active .icon {
-    color: #fff;
+.menu.is-active #hamburger-button {
+    fill: #fff;
 }
 
 .menu-toggle:hover {
