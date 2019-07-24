@@ -1,6 +1,6 @@
 // Selectors
-let toggle = document.querySelector(".menu-toggle");
-let menu = document.querySelector(".menu");
+const toggle = document.querySelector(".menu-toggle");
+const menu = document.querySelector(".menu");
 
 // Toggle Menu
 function showMenu() {
