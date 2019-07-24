@@ -64,6 +64,7 @@ body .fa {
 .menu.is-active .menu-toggle .menu-icon {
     background-image: url("./images/menu-close-white.svg");
     background-size: 75%;
+    background-position: top center;
 }
 
 .menu-content ul {
