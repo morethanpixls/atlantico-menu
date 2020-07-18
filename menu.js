@@ -19,6 +19,4 @@
 
 	// Click
 	toggle.addEventListener("click", showMenu);
-
-	console.log(position);
 })();
