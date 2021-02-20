@@ -7,7 +7,7 @@
 (function atlanticoMenu(
 	containerSelector = ".menu",
 	toggleSelector = ".menu-toggle",
-	position = "left",
+	position = "right",
 ) {
 	const toggle = document.querySelector(toggleSelector);
 	const menu = document.querySelector(containerSelector);
