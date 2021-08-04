@@ -24,10 +24,8 @@
 
 	// Get menu height for position top and bottom
 	if (position === "top") {
-		// Set top property to calculated height value
 		menuContent.style.top = `${menuHeightNegative}px`;
 	} else if (position === "bottom") {
-		// Set bottom property to calculated height value
 		menuContent.style.bottom = `${menuHeightNegative}px`;
 	}
 
